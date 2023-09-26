@@ -12,11 +12,14 @@ These analyses integrate multiplex immunofluorescence (MxIF) and spatial transcr
 * Summaries and visualizations of integrated spatial data
 * Immune Exclusion analysis in MxIF
 
+## Downloading Data
+Annotated, pre-processed data compatible with the codebase can be downloaded from OSF Storage: [https://osf.io/hftq2/](https://osf.io/hftq2/)
+
 ## Order of Operations
 
 Code in this repository is intended to be run in order, as some analyses depend on outputs from previous tools. We therefore divide up the analysis notebooks into steps, provided as ordered directories.
 
-1. Download publicly available data using the scripts in the `data/` directory first
+1. Download publicly available data from [OSF](https://osf.io/hftq2/) to the `data/` directory first
 2. Proceed to the notebooks in the `step1/` directory, then `step2/`, and `step3/` and so forth. All notebooks residing in the same directory can be run in any order, but they *all* must be successfully run before proceeding to the next step.
 
 ## Flow Chart of Analyses
