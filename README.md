@@ -13,7 +13,7 @@ These analyses integrate multiplex immunofluorescence (MxIF) and spatial transcr
 * Immune Exclusion analysis in MxIF
 
 ## Downloading Data
-All raw data have been deposited to the HTAN Data Coordinating Center Data Portal at the National Cancer Institute: \url{https://data.humantumoratlas.org/} (under the HTAN Vanderbilt Atlas).
+All raw data have been deposited to the HTAN Data Coordinating Center Data Portal at the National Cancer Institute: [https://data.humantumoratlas.org/](https://data.humantumoratlas.org/) (under the HTAN Vanderbilt Atlas).
 
 Additional annotated, pre-processed data compatible with the codebase can be downloaded from OSF Storage: [https://osf.io/hftq2/](https://osf.io/hftq2/)
 
@@ -21,7 +21,7 @@ Additional annotated, pre-processed data compatible with the codebase can be dow
 
 Code in this repository is intended to be run in order, as some analyses depend on outputs from previous tools. We therefore divide up the analysis notebooks into steps, provided as ordered directories.
 
-1. Download publicly available data from [OSF](https://osf.io/hftq2/) to the `data/` directory first
+1. Download publicly available data from [HTAN DCC](https://data.humantumoratlas.org/) and [OSF](https://osf.io/hftq2/) to the `data/` directory first
 2. Proceed to the notebooks in the `step1/` directory, then `step2/`, and `step3/` and so forth. All notebooks residing in the same directory can be run in any order, but they *all* must be successfully run before proceeding to the next step.
 
 ## Flow Chart of Analyses
