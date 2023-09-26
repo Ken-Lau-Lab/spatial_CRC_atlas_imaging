@@ -1,11 +1,5 @@
 # Data Downloads
 
-## MxIF
+Downloads are available from OSF Storage at [https://osf.io/hftq2/](https://osf.io/hftq2/)
 
-`download_MxIF.sh` - execute to pull MxIF data to `data/MxIF/`. Then start at `step1` "MxIF" analysis.
-
-## ST
-
-`download_scRNA.sh` - execute to pull Visium ST data in `.h5ad` compressed format to `data/ST/`. Then start at `step1` "ST" analysis.
-
-`download_scRNA.sh` - execute to pull fully annotated Visium ST data in `.h5ad` compressed format to `data/ST/`. *Run this script to skip to `step5` "ST" analysis*.
+You can download the `scRNA/` and `MxIF/` directories and place them here, and start from `step1` analysis.
