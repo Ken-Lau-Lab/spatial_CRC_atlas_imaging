@@ -13,9 +13,9 @@ These analyses integrate multiplex immunofluorescence (MxIF) and spatial transcr
 * Immune Exclusion analysis in MxIF
 
 ## Downloading Data
-All raw data have been deposited to the HTAN Data Coordinating Center Data Portal at the National Cancer Institute: [https://data.humantumoratlas.org/](https://data.humantumoratlas.org/) (under the HTAN Vanderbilt Atlas).
+Annotated, pre-processed data compatible with the codebase can be downloaded from OSF Storage: [https://osf.io/hftq2/](https://osf.io/hftq2/)
 
-Additional annotated, pre-processed data compatible with the codebase can be downloaded from OSF Storage: [https://osf.io/hftq2/](https://osf.io/hftq2/)
+All raw data have been deposited to the HTAN Data Coordinating Center Data Portal at the National Cancer Institute: [https://data.humantumoratlas.org/](https://data.humantumoratlas.org/) (under the HTAN Vanderbilt Atlas).
 
 ## Order of Operations
 
